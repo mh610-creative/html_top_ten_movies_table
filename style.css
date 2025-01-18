@@ -1,0 +1,20 @@
+body {
+    background-color: aliceblue;
+  }
+  
+  table, th, td {
+    border: 1px solid black;
+    font-weight: normal;
+  }
+  
+  th {
+    padding: 5px;
+  }
+  
+  thead th {
+    font-weight: bold;
+  }
+  
+  tfoot td {
+    font-style: oblique;
+  }
